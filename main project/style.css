@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color:white;
+}
+#first {
+    background-color: aqua;
+    color: white;
+}
+#second{
+    background-color: red;
+    color: white;
+}
+.bg-blue {
+    background-color: blue;
+    color: white;
+}
